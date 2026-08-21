@@ -2,6 +2,13 @@
 
 Organização usada para a entrega do **Tech Challenge** da pós-graduação em Software Architecture (FIAP, 14SOAT).
 
+## Grupo: Integradores
+
+| Nome Completo | RM |
+| --- | --- |
+| Lucas Gardini Dias | 372237 |
+| Thiago Aio | 372238 |
+
 ## Repositórios da Fase 3
 
 | Repositório | Descrição |
