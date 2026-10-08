@@ -1,6 +1,6 @@
 # FIAP Pós Tech · Software Architecture
 
-Organização usada para a entrega do **Tech Challenge** da pós-graduação em Software Architecture (FIAP, 15SOAT).
+Organização usada para a entrega do **Tech Challenge** da pós-graduação em Software Architecture (FIAP, 14SOAT).
 
 ## Grupo: Integradores
 
@@ -9,7 +9,7 @@ Organização usada para a entrega do **Tech Challenge** da pós-graduação em 
 | Lucas Gardini Dias | 372237 |
 | Thiago Aio | 372238 |
 
-## Microsserviços (Fase 4)
+## Microsserviços
 
 | Repositório | Descrição |
 | --- | --- |
