@@ -1,6 +1,6 @@
 # FIAP Pós Tech · Software Architecture
 
-Organização usada para a entrega do **Tech Challenge** da pós-graduação em Software Architecture (FIAP, 14SOAT).
+Organização usada para a entrega do **Tech Challenge** da pós-graduação em Software Architecture (FIAP, 15SOAT).
 
 ## Grupo: Integradores
 
