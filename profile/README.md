@@ -24,3 +24,7 @@ Organização usada para a entrega do **Tech Challenge** da pós-graduação em 
 | [`tc-oficina-lambda-auth`](https://github.com/FIAP-POS-TECH-SOFTWARE-ARCHITECTURE/tc-oficina-lambda-auth) | API Gateway + autenticação de clientes via CPF (AWS Lambda) |
 | [`tc-oficina-infra-k8s`](https://github.com/FIAP-POS-TECH-SOFTWARE-ARCHITECTURE/tc-oficina-infra-k8s) | VPC, EKS, ECR e mensageria (SNS/SQS) — Terraform |
 | [`tc-oficina-infra-db`](https://github.com/FIAP-POS-TECH-SOFTWARE-ARCHITECTURE/tc-oficina-infra-db) | Bancos de dados dos microsserviços (RDS PostgreSQL, DynamoDB) — Terraform |
+
+## Arquitetura
+
+A [visão geral da arquitetura de microsserviços](https://github.com/FIAP-POS-TECH-SOFTWARE-ARCHITECTURE/tc-oficina-os-service/blob/main/docs/arquitetura/visao-geral-microsservicos.md) descreve os serviços, a Saga orquestrada, a mensageria e a borda; o índice completo (ADRs, RFCs, diagramas) está em `docs/arquitetura/` do `tc-oficina-os-service`.
